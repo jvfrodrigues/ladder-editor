@@ -1,0 +1,56 @@
+c:\users\unisanta\documents\visual studio 2013\Projects\teste1\teste1\bin\Debug\teste1.exe.config
+c:\users\unisanta\documents\visual studio 2013\Projects\teste1\teste1\obj\Debug\teste1.csprojResolveAssemblyReference.cache
+c:\users\unisanta\documents\visual studio 2013\Projects\teste1\teste1\obj\Debug\teste1.Form1.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\teste1\teste1\obj\Debug\teste1.Properties.Resources.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\teste1\teste1\obj\Debug\teste1.csproj.GenerateResource.Cache
+c:\users\unisanta\documents\visual studio 2013\Projects\teste1\teste1\bin\Debug\teste1.exe
+c:\users\unisanta\documents\visual studio 2013\Projects\teste1\teste1\bin\Debug\teste1.pdb
+c:\users\unisanta\documents\visual studio 2013\Projects\teste1\teste1\obj\Debug\teste1.exe
+c:\users\unisanta\documents\visual studio 2013\Projects\teste1\teste1\obj\Debug\teste1.pdb
+C:\Users\unisanta\Desktop\teste1\teste1\bin\Debug\teste1.exe.config
+C:\Users\unisanta\Desktop\teste1\teste1\obj\Debug\teste1.exe
+C:\Users\unisanta\Desktop\teste1\teste1\obj\Debug\teste1.pdb
+C:\Users\unisanta\Desktop\teste1\teste1\bin\Debug\teste1.exe
+C:\Users\unisanta\Desktop\teste1\teste1\bin\Debug\teste1.pdb
+C:\Users\unisanta\Desktop\teste1\teste1\obj\Debug\teste1.csprojResolveAssemblyReference.cache
+C:\Users\unisanta\Desktop\teste1\teste1\obj\Debug\teste1.Form1.resources
+C:\Users\unisanta\Desktop\teste1\teste1\obj\Debug\teste1.Properties.Resources.resources
+C:\Users\unisanta\Desktop\teste1\teste1\obj\Debug\teste1.csproj.GenerateResource.Cache
+C:\Users\Wolfbarg\Desktop\teste2\teste1\bin\Debug\teste1.exe.config
+C:\Users\Wolfbarg\Desktop\teste2\teste1\obj\Debug\teste1.exe
+C:\Users\Wolfbarg\Desktop\teste2\teste1\obj\Debug\teste1.pdb
+C:\Users\Wolfbarg\Desktop\teste2\teste1\bin\Debug\teste1.exe
+C:\Users\Wolfbarg\Desktop\teste2\teste1\bin\Debug\teste1.pdb
+C:\Users\Wolfbarg\Desktop\teste2\teste1\obj\Debug\teste1.csprojResolveAssemblyReference.cache
+C:\Users\Wolfbarg\Desktop\teste2\teste1\obj\Debug\teste1.Form1.resources
+C:\Users\Wolfbarg\Desktop\teste2\teste1\obj\Debug\teste1.Properties.Resources.resources
+C:\Users\Wolfbarg\Desktop\teste2\teste1\obj\Debug\teste1.csproj.GenerateResource.Cache
+C:\Users\Wolfbarg\Desktop\Branqs\teste2\teste1\bin\Debug\teste1.exe.config
+C:\Users\Wolfbarg\Desktop\Branqs\teste2\teste1\obj\Debug\teste1.exe
+C:\Users\Wolfbarg\Desktop\Branqs\teste2\teste1\obj\Debug\teste1.pdb
+C:\Users\Wolfbarg\Desktop\Branqs\teste2\teste1\bin\Debug\teste1.exe
+C:\Users\Wolfbarg\Desktop\Branqs\teste2\teste1\bin\Debug\teste1.pdb
+C:\Users\Wolfbarg\Desktop\Branqs\teste2\teste1\obj\Debug\teste1.csprojResolveAssemblyReference.cache
+C:\Users\Wolfbarg\Desktop\Branqs\teste2\teste1\obj\Debug\teste1.Form1.resources
+C:\Users\Wolfbarg\Desktop\Branqs\teste2\teste1\obj\Debug\teste1.Properties.Resources.resources
+C:\Users\Wolfbarg\Desktop\Branqs\teste2\teste1\obj\Debug\teste1.csproj.GenerateResource.Cache
+C:\Users\unisanta\Desktop\ff18-05-18\teste1\bin\Debug\teste1.exe.config
+C:\Users\unisanta\Desktop\ff18-05-18\teste1\obj\Debug\teste1.exe
+C:\Users\unisanta\Desktop\ff18-05-18\teste1\obj\Debug\teste1.pdb
+C:\Users\unisanta\Desktop\ff18-05-18\teste1\bin\Debug\teste1.exe
+C:\Users\unisanta\Desktop\ff18-05-18\teste1\bin\Debug\teste1.pdb
+C:\Users\unisanta\Desktop\ff18-05-18\teste1\obj\Debug\teste1.csprojResolveAssemblyReference.cache
+C:\Users\unisanta\Desktop\ff18-05-18\teste1\obj\Debug\teste1.Properties.Resources.resources
+C:\Users\unisanta\Desktop\ff18-05-18\teste1\obj\Debug\teste1.csproj.GenerateResource.Cache
+C:\Users\unisanta\Desktop\ff18-05-18\teste1\obj\Debug\teste1.Form2.resources
+C:\Users\unisanta\Desktop\ff18-05-18\teste1\obj\Debug\teste1.FormPrincipal.resources
+C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\bin\Debug\teste1.exe.config
+C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\obj\Debug\teste1.exe
+C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\obj\Debug\teste1.pdb
+C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\bin\Debug\teste1.exe
+C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\bin\Debug\teste1.pdb
+C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\obj\Debug\teste1.csprojResolveAssemblyReference.cache
+C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\obj\Debug\teste1.FormPrincipal.resources
+C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\obj\Debug\teste1.Form2.resources
+C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\obj\Debug\teste1.Properties.Resources.resources
+C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\obj\Debug\teste1.csproj.GenerateResource.Cache
