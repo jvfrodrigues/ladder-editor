@@ -115,40 +115,47 @@ namespace teste1
                         if (chAux == ')')
                         {
                             instFlag = false;
-                            #region switchInst
-                            switch (inst)
+                            if (nome.Length > 50)
                             {
-                                case "SEL":
-                                    insereSEL(nome);
-                                    firstFlag = false;
-                                    break;
-                                case "SED":
-                                    insereSED(nome);
-                                    firstFlag = false;
-                                    break;
-                                case "E":
-                                    if(!firstFlag)
-                                        insereE(nome);
-                                    break;
-                                case "EN":
-                                    if (!firstFlag)
-                                        insereEN(nome);
-                                    break;
-                                case "OU":
-                                    if (!firstFlag)
-                                        insereOU(nome);
-                                    break;
-                                case "OUN":
-                                    if (!firstFlag)
-                                        insereOUN(nome);
-                                    break;
-                                case "MEMO":
-                                    if (!firstFlag)
-                                        insereMEMO(nome);
-                                    break;
-                                default: break;
+                                MessageBox.Show("TAMANHO MAXIMO DE NOME É 50 CARACTERES");
                             }
-                            #endregion
+                            else
+                            {
+                                #region switchInst
+                                switch (inst)
+                                {
+                                    case "SEL":
+                                        insereSEL(nome);
+                                        firstFlag = false;
+                                        break;
+                                    case "SED":
+                                        insereSED(nome);
+                                        firstFlag = false;
+                                        break;
+                                    case "E":
+                                        if (!firstFlag)
+                                            insereE(nome);
+                                        break;
+                                    case "EN":
+                                        if (!firstFlag)
+                                            insereEN(nome);
+                                        break;
+                                    case "OU":
+                                        if (!firstFlag)
+                                            insereOU(nome);
+                                        break;
+                                    case "OUN":
+                                        if (!firstFlag)
+                                            insereOUN(nome);
+                                        break;
+                                    case "MEMO":
+                                        if (!firstFlag)
+                                            insereMEMO(nome);
+                                        break;
+                                    default: break;
+                                }
+                                #endregion
+                            }
                             inst = "";
                             nome = "";
                         }

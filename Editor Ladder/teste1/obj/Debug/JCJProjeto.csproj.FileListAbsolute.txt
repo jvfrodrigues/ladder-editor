@@ -6,3 +6,12 @@ C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\obj\Debug\teste1.Properties.Res
 C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\obj\Debug\JCJProjeto.csproj.GenerateResource.Cache
 C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\obj\Debug\teste1.exe
 C:\Users\Wolfbarg\Desktop\ff18-05-18 1829\teste1\obj\Debug\teste1.pdb
+C:\Users\Wolfbarg\Desktop\Editor Ladder\teste1\bin\Debug\teste1.exe.config
+C:\Users\Wolfbarg\Desktop\Editor Ladder\teste1\obj\Debug\teste1.exe
+C:\Users\Wolfbarg\Desktop\Editor Ladder\teste1\obj\Debug\teste1.pdb
+C:\Users\Wolfbarg\Desktop\Editor Ladder\teste1\bin\Debug\teste1.exe
+C:\Users\Wolfbarg\Desktop\Editor Ladder\teste1\bin\Debug\teste1.pdb
+C:\Users\Wolfbarg\Desktop\Editor Ladder\teste1\obj\Debug\JCJProjeto.csprojResolveAssemblyReference.cache
+C:\Users\Wolfbarg\Desktop\Editor Ladder\teste1\obj\Debug\teste1.FormPrincipal.resources
+C:\Users\Wolfbarg\Desktop\Editor Ladder\teste1\obj\Debug\teste1.Properties.Resources.resources
+C:\Users\Wolfbarg\Desktop\Editor Ladder\teste1\obj\Debug\JCJProjeto.csproj.GenerateResource.Cache
